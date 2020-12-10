@@ -1,0 +1,52 @@
+.titles{
+    float: left;
+    margin-top: 125px;
+    margin-left: 45px;
+}
+
+.line1{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+}
+
+.line2{
+font-family: Adobe Garamond Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 100px;
+/* line-height: 185px; */
+letter-spacing: 0.05em;
+margin-left: 23%;
+margin-top: -30px;
+}
+
+.line3{
+font-family: Adobe Garamond Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+/* line-height: 72px; */
+/* identical to box height */
+
+letter-spacing: 0.4em;
+margin-left: 5%;
+
+}
+
+.line4 {
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+/* line-height: 30px; */
+letter-spacing: 0.1em;
+margin-left: 3%;
+
+}
+.line4 span {
+ 
+margin-left: 14%;
+
+}

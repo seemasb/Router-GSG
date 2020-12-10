@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.Nav ul {
+    display: flex;
+    gap: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    list-style-type: none;
+    float: right;
+    margin-right: 11%;
+    margin-top: 30px;
+
+}
+
+/* .header_container{
+    display: flex;
+} */
+
+.yellow{
+    background: #E0B973;
+    height: 107px;
+    width: 13%;
+    border-radius: 0px 0px 30px 30px;
+    margin-left: 11%;
+    position: relative;
+    z-index: 100;
+}
+
+.span1{
+font-family: Adobe Garamond Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+letter-spacing: 0.15em;
+width: 100px;
+color: #14274A;
+position: relative;
+top: 31px;
+left: 4px;
+
+
+}
+
+.span2{
+font-family: Adobe Garamond Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+letter-spacing: 0.6em;
+color: #14274A;
+position: relative;
+top: 23px;
+left: 4px;
+
+}
+
+.naving{
+    color: white;
+text-decoration: none;
+}
+
+.under{
+    color: tomato;
+}

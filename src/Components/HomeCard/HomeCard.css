@@ -1,0 +1,71 @@
+.HomeCard_container{
+    display: flex;
+    /* flex-direction: column; */
+    margin-left: 170px;
+}
+
+.inner_container{
+    display: flex;
+    margin-left: 45px;
+    margin-right:160px;
+    margin-top: 55px;
+}
+
+.pic{
+    /* width: 462px;
+    height: 300px; */
+    width: 490px;
+    height: 330px;
+}
+
+.n1{
+    font-family: Adobe Garamond Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    /* line-height: 72px; */
+    /* identical to box height */
+    letter-spacing: 0.02em;
+    color: #14274A;
+    margin-left: -66px;
+
+}
+
+.n2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: left;
+    width: 320px;
+    /* or 160% */
+
+
+    color: #14274A;
+
+}
+
+.line{
+    height: 170px;
+    margin-right: 26px;
+    margin-top: 10px;
+}
+
+.explore_button{
+    width: 129px;
+    height: 33px;
+    background: #E0B973;
+    color: white;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    float: left;
+
+}

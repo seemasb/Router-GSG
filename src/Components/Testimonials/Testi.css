@@ -1,0 +1,65 @@
+.span11{
+    font-family: Adobe Garamond Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 60px;
+    /* identical to box height */
+
+    
+    color: #14274A;
+
+}
+
+.span22{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    /* line-height: 37px; */
+    /* identical to box height */
+
+
+    color: #14274A;
+}
+
+.span33{
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 32px;
+
+color: #14274A;
+}
+
+.Testi_container{
+    margin-top: 60px;
+    margin-bottom: 15px;
+
+}
+
+button{
+    background: #E0B973;
+    border: none;
+    border-radius: 5px;
+    width: 27px;
+   height: 27px;
+   outline: none;
+   cursor: pointer;
+}
+
+.buttons{
+    display: flex;
+    gap: 12px;
+    margin-left: 47.5%;
+    margin-top: 8px;
+
+}
+
+.arrow{
+    position: relative;
+    top: 2px;
+    right: 2px;
+}

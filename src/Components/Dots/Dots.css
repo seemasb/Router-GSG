@@ -1,0 +1,24 @@
+.DotsCont{
+    display: flex;
+    gap: 11px;
+    margin-left: 401px;
+    margin-top: -30px;
+    margin-bottom: 17px;
+}
+
+.Full{
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
+}
+
+
+.Empty{
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: transparent;
+}

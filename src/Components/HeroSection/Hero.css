@@ -1,0 +1,28 @@
+
+
+.hero_section{
+    width: 100%;
+    height: 100vh;
+   /* background-color: rgba(0, 0, 0, 0.445); */
+   
+    /* background-image: url('./Hero.js/bg.jpg'); */
+}
+
+.hero_section img{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    top: -480px;
+    z-index: -50;
+    opacity: .84;
+}
+
+
+.mytest{
+    background-color: rgba(0, 0, 0, 0.219);
+    width: 100%;
+    height: 100.2vh;
+    position: relative;
+    top: -1110px;
+    z-index: -50;
+}

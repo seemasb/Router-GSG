@@ -1,0 +1,27 @@
+.RoomCard{
+    width: 855px;
+    height: 695px;
+    border: 1px solid #213c70;
+    border-radius: 5px;
+    margin-left: 18%;
+    margin-bottom: 55px;
+}
+
+.RoomCard_img{
+    width: 855px;
+    height: 494px;
+}
+
+.RoomBlue{
+    text-transform: uppercase;
+    color: white;
+    background-color: #14274A;
+    width: 855px;
+    height:73px ;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 73px;
+    margin-top: -4px;
+}

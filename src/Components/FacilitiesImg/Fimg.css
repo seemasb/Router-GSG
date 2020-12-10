@@ -1,0 +1,36 @@
+.Fimg_container{
+    margin-top: -40px;
+    margin-bottom: 100px;
+}
+
+
+
+.F-img{
+    /* width: 843px; */
+    /* width: 700px; */
+    width: 943px;
+    /* height: 562px; */
+    height: 662px;
+}
+
+.white_div{
+    width: 365px;
+    height: 40px;
+    position: relative;
+    left: 37.5%;
+    top: -44px;
+    background-color: white;
+}
+
+.caption{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 30px;
+    /* line-height: 59px; */
+    /* identical to box height */
+    text-transform: uppercase;
+    text-align: center;
+   color: #14274A;
+
+}

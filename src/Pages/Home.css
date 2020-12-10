@@ -1,0 +1,17 @@
+.home_span{
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+color: #14274A;
+position: relative;
+top: -50px;
+}
+
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+}

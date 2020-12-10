@@ -1,0 +1,142 @@
+.blue_div{
+    width: 100%;
+    background: #14274A;
+    height: 150px;
+}
+
+.inner_div{
+    display: flex;
+    gap: 127px;
+    position: relative;
+    top:30px;
+    left: 120px;
+}
+
+.inner_div div{
+    display: flex;
+    flex-direction: column;
+}
+
+#search_div{
+    display: flex;
+    flex-direction: row;
+}
+
+.triangle{
+    width: 80px;
+    height: 80px;
+    background: #14274A;
+    transform: rotate(46deg);
+    margin-left: 47%;
+    position: relative;
+    top: 60px;
+    z-index: -5;
+
+}
+
+.p2{
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 32px;
+    position: relative;
+    top: -10px;
+    color: #F7F7F7;
+}
+
+.p1{
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+
+    color: #F7F7F7;
+}
+
+.p3{
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 23px;
+    position: relative;
+    right: 50px;
+    color: #F7F7F7;
+}
+
+.socialIcons{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 12px;
+    position: relative;
+    left: 70px;
+}
+
+
+.f1{
+    font-family: Adobe Garamond Pro;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: 0.15em;
+    
+}
+
+.f2{
+    font-family: Adobe Garamond Pro;
+    font-weight: bold;
+    font-size: 7px;
+    line-height: 11px;
+    letter-spacing: 0.6em;
+}
+
+.f3{
+    font-size: 10px;
+    line-height: 17px;
+
+}
+
+#subs{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 17px;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.email{
+    margin-top: 13px;
+}
+
+#search_div input{
+    background: transparent;
+    border: 1px solid #e0b973;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+   
+    
+}
+
+
+#search_div button{
+    outline: none;
+    border-radius: 0px;
+    width: 43px;
+    cursor: pointer;
+}
+
+::placeholder {
+    color: white;
+   
+  }
+  
+

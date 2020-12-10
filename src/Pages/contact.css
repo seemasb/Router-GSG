@@ -1,0 +1,33 @@
+.contactTitle{
+    margin-top: 180px;
+    text-align: left;
+    margin-left: 148px;
+}
+
+.contactTitle span {
+    font-family: Adobe Garamond Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    /* line-height: 72px; */
+    /* identical to box height */
+
+
+    color: #14274A;
+
+}
+
+.contactTitle p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #14274A;
+
+}
+
+.NoName{
+    display: flex;
+}

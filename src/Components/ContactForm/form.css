@@ -1,0 +1,45 @@
+.FormCont{
+    margin-left:22%;
+    margin-top: 10%;
+}
+
+.FormCont input{
+    width: 304px;
+    height: 42px;
+    background: white;
+    outline: none;
+    border: 1px solid rgba(20, 39, 74, 0.5);
+    margin-bottom: 17px;
+}
+
+.FormCont label{
+    font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height */
+margin-bottom: 6px;
+float: left;
+color: #14274A;
+}
+
+.FormCont textarea{
+    width: 304px;
+    height: 188px;
+    background: white;
+    outline: none;
+    border: 1px solid rgba(20, 39, 74, 0.5);
+}
+
+#submit_btn{
+    width: 78px;
+    height:38px;
+    color: white;
+    font-weight: bold;
+    font-family: Montserrat;
+    font-size: 9pt;
+    margin-left:73% ;   
+    margin-top: 20px; 
+    margin-bottom: 200px;
+}

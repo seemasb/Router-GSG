@@ -1,0 +1,32 @@
+.AddressCont p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    /* line-height: 33px; */
+    text-align: left;
+    color: #14274A;
+}
+
+.AddressCont span{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    /* line-height: 49px; */
+    color: #14274A;
+    margin-left: -58%;
+
+}
+
+.AddressCont{
+    margin-left: 148px;
+    margin-top: 8%;
+
+}
+
+.arrow2{
+    position: relative;
+    left: 10px;
+    top: 16px;
+}

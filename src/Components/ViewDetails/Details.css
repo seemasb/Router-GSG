@@ -1,0 +1,45 @@
+.DetailsContainer{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 95px;
+    gap: 27px;
+}
+
+.b1{
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+}
+
+.DetailsContainer span {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 13px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #14274A;
+}
+
+.b2{
+    width: 154px;
+    height: 42px;
+    color: white;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 30px;
+    margin-left: 300px;
+    color: #FFFFFF;
+    position: relative;
+    top: -5px;
+
+}
+
+.GoPlus{
+position: relative;
+top: 2px;
+left: 1px;
+}

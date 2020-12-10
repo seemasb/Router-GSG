@@ -1,0 +1,50 @@
+.book_container{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 60%;
+    right: 18%;
+}
+
+.book_button{
+    width: 143px;
+    height: 40px;
+    background: #E0B973;
+    border-radius: 7px; 
+    border: none;
+    color: white;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 30px;
+    cursor: pointer;
+    outline: none;
+    margin-left: 41%;
+    margin-bottom: 38px;
+}
+
+.book_icon{
+    margin-right: 10px;
+position: relative;
+top: 2px;
+}
+
+.scroll_button{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    margin-left: 47.4%;
+
+}
+
+.book_span{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 2px;
+    color: #ffffff;
+
+}
