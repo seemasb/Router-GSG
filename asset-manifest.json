@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Router-GSG/static/css/main.424e3178.chunk.css",
+    "main.js": "/Router-GSG/static/js/main.ea3e2fa8.chunk.js",
+    "main.js.map": "/Router-GSG/static/js/main.ea3e2fa8.chunk.js.map",
+    "runtime-main.js": "/Router-GSG/static/js/runtime-main.b7818849.js",
+    "runtime-main.js.map": "/Router-GSG/static/js/runtime-main.b7818849.js.map",
+    "static/js/2.57dcc0d9.chunk.js": "/Router-GSG/static/js/2.57dcc0d9.chunk.js",
+    "static/js/2.57dcc0d9.chunk.js.map": "/Router-GSG/static/js/2.57dcc0d9.chunk.js.map",
+    "static/js/3.ffa0619e.chunk.js": "/Router-GSG/static/js/3.ffa0619e.chunk.js",
+    "static/js/3.ffa0619e.chunk.js.map": "/Router-GSG/static/js/3.ffa0619e.chunk.js.map",
+    "index.html": "/Router-GSG/index.html",
+    "static/css/main.424e3178.chunk.css.map": "/Router-GSG/static/css/main.424e3178.chunk.css.map",
+    "static/js/2.57dcc0d9.chunk.js.LICENSE.txt": "/Router-GSG/static/js/2.57dcc0d9.chunk.js.LICENSE.txt",
+    "static/media/bg2e.77b96b12.jpg": "/Router-GSG/static/media/bg2e.77b96b12.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7818849.js",
+    "static/js/2.57dcc0d9.chunk.js",
+    "static/css/main.424e3178.chunk.css",
+    "static/js/main.ea3e2fa8.chunk.js"
+  ]
+}
